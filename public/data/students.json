@@ -1,0 +1,32 @@
+﻿[
+  {
+    "name": "testcase 1",
+    "grade": 11,
+    "latitude": 40.74934398446412,
+    "longitude": -73.98060912924326
+  },
+  {
+    "name": "testcase 2",
+    "grade": 9,
+    "latitude": 40.73893949612377,
+    "longitude": -73.92052764730967
+  },
+  {
+    "name": "testcase 3",
+    "grade": 3,
+    "latitude": 40.73243586438407,
+    "longitude": -73.91434783773936
+  },
+  {
+    "name": "testcase 4",
+    "grade": 9,
+    "latitude": 40.76312742433409,
+    "longitude": -73.96275634604014
+  },
+  {
+    "name": "testcase 5",
+    "grade": 9,
+    "latitude": 40.75766640319682,
+    "longitude": -73.97030944662608
+  }
+]

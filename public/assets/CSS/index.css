@@ -1,0 +1,39 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#mapid {
+  height: 90%;
+  width: 75%;
+  display: inline-block;
+  float: left;
+  margin: 10px;
+}
+
+.infoPanel {
+  background-color: rgba(128, 128, 128, 0.75);
+  color: white;
+  border-radius: 5px;
+}
+
+.infoPanel p {
+  padding: 0px 10px;
+}
+
+#filterPanel {
+  height: 90%;
+  padding: 5px 15px;
+  margin: 10px;
+  background-color: white;
+  font-size: 10px;
+  overflow: scroll;
+  border: 1px solid black;
+}
+
+.field-container {
+  border-top: 1px solid black;
+  padding: 0 0 10px 0;
+}

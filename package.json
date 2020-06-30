@@ -1,0 +1,38 @@
+{
+   "name": "mapping",
+   "version": "0.3.0",
+   "description": "",
+   "engines": {
+      "node": "12.x"
+   },
+   "main": "app.js",
+   "scripts": {
+      "start": "node app.js",
+      "test": "node app.js"
+   },
+   "dependencies": {
+      "body-parser": "^1.19.0",
+      "dotenv": "^8.2.0",
+      "ejs": "^2.5.6",
+      "express": "^4.15.2",
+      "express-react-views": "^0.11.0",
+      "geojson": "^0.5.0",
+      "leaflet-geosearch": "^2.7.0",
+      "leaflet-knn": "^0.1.0",
+      "sphere-knn": "^1.4.0"
+   },
+   "devDependencies": {
+      "request": "^2.81.0",
+      "tape": "^4.7.0"
+   },
+   "repository": {
+      "type": "git",
+      "url": ""
+   },
+   "keywords": [
+      "node",
+      "heroku",
+      "express"
+   ],
+   "license": "MIT"
+}
