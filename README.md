@@ -6,7 +6,9 @@ An interative map of NYC that displays:
 - Schools
 - students + filter legend for students
 
-The Leaflet library (open-sourced) is used for the majority of this project. There is no additional installation needed for Leaflet, as all of the necessary components are either part of the repo or linked to a CDN. [More about Leaflet here](https://leafletjs.com/)
+<img width="1439" alt="project_image" src="https://user-images.githubusercontent.com/28664963/86154619-537f3c00-bad1-11ea-857d-76a037d52b2d.png">
+
+The Leaflet library was used for the majority of this project. There is no additional installation needed for Leaflet, as all of the necessary components are either part of the repo or linked to a CDN. [More about Leaflet here](https://leafletjs.com/)
 
 **Steps to Install (Locally):**
 
