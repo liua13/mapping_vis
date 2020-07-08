@@ -11,6 +11,7 @@ The Leaflet library was used for the majority of this project. There is no addit
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+
 **Steps to Install (Locally):**
 
 1. Make sure `Node` and `npm` are installed
