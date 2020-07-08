@@ -4,11 +4,12 @@ An interative map of NYC that displays:
 
 - neighborhoods
 - Schools
-- students + filter legend for students
-
-<img width="1439" alt="project_image" src="https://user-images.githubusercontent.com/28664963/86154619-537f3c00-bad1-11ea-857d-76a037d52b2d.png">
+- students + filter legend + finding the nearest _n_ hospitals
 
 The Leaflet library was used for the majority of this project. There is no additional installation needed for Leaflet, as all of the necessary components are either part of the repo or linked to a CDN. [More about Leaflet here](https://leafletjs.com/)
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 **Steps to Install (Locally):**
 
