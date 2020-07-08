@@ -9,8 +9,7 @@ An interative map of NYC that displays:
 The Leaflet library was used for the majority of this project. There is no additional installation needed for Leaflet, as all of the necessary components are either part of the repo or linked to a CDN. [More about Leaflet here](https://leafletjs.com/)
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
+GIF created with [LiceCap](http://www.cockos.com/licecap/). \
 
 **Steps to Install (Locally):**
 
